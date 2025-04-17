@@ -157,7 +157,8 @@ Implementation:
 - `visualize_analytics.py` - Creates static PNG visualizations
 - `analytics_dashboard.py` - Provides web-based interactive dashboard
 - !trending_content[](trending_content.png)
-- top_users[](top_users.png)
+  
+- !top_users[](top_users.png)
 ## Performance Optimizations
 
 Several optimization techniques are implemented in the workflow:
