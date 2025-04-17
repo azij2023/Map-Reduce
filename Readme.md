@@ -156,6 +156,7 @@ This component provides analytics insights:
 Implementation:
 - `visualize_analytics.py` - Creates static PNG visualizations
 - `analytics_dashboard.py` - Provides web-based interactive dashboard
+- ![](trending_content.png)
 
 ## Performance Optimizations
 
