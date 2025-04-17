@@ -159,6 +159,8 @@ Implementation:
 - ![trending_content](trending_content.png)
   
 - ![top_users](top_users.png)
+
+- ![activity_correlation](activity_correlation.png)
 ## Performance Optimizations
 
 Several optimization techniques are implemented in the workflow:
