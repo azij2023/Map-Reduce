@@ -161,6 +161,8 @@ Implementation:
 - ![top_users](top_users.png)
 
 - ![activity_correlation](activity_correlation.png)
+
+- ![activity_distribution](activity_distribution.png)
 ## Performance Optimizations
 
 Several optimization techniques are implemented in the workflow:
